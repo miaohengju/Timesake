@@ -1,0 +1,23 @@
+{
+	"code": 0,
+	"msg": "",
+	"data": [{
+			"applicationId": "com.shanglian.smartalbum.server",
+			"versionCode": 3,
+			"versionName": "V2.0.2",
+			"update_info": "版本升级完善~",
+			"update_time": "2020-11-08",
+			"app_update_force": 0,
+			"app_path": "server.apk"
+		},
+		{
+			"applicationId": "com.shanglian.smartalbum2",
+			"versionCode": 1,
+			"versionName": "V2.0,2",
+			"update_info": "版本升级完善~",
+			"update_time": "2020-11-08",
+			"app_update_force": 0,
+			"app_path": "server.apk"
+		}
+	]
+}
